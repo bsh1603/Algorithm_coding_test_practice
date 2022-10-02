@@ -3,7 +3,7 @@
 // start 이동 -> . 경우만 이동 && 방문하지 않은곳
 // 불 이동 -> . @ 경우 이동
 
-package bfs;
+package bfs_dfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;

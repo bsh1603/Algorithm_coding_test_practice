@@ -1,6 +1,6 @@
 // 왔던 곳을 다시 가는 것은 최소 조건이 아님 -> 방문처리
 
-package bfs;
+package bfs_dfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;

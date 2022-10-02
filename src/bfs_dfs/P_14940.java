@@ -3,7 +3,7 @@
  * -1 처리 : 방문하지 않았고 값이 0이 아니면 -1이다
  */
 
-package bfs;
+package bfs_dfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;

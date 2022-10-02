@@ -6,7 +6,7 @@
  * operation = {1, 1, 2, 3, 4}
  */
 
-package bfs;
+package bfs_dfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
